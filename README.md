@@ -1,1 +1,1 @@
-AWS-3-Tier-Architecture구현.Terraform
+AWS,Terrafrom을 활용한 기본적인 3Tier Architecture 구현
